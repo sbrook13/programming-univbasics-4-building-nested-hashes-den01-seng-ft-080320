@@ -1,5 +1,5 @@
 def base_hash
-  sample_hash = {
+  monopoly_hash = {
     :railroads => {}
   }
 
